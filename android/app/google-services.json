@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11903989111",
+    "project_id": "discussion-rsvp-livre-or",
+    "storage_bucket": "discussion-rsvp-livre-or.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11903989111:android:484bb347f6e55e96ec5d72",
+        "android_client_info": {
+          "package_name": "com.example.diss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyqJvlLbWHcRPBu3lYubPJX0PA11cXxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
